@@ -1,0 +1,6 @@
+{
+  "name": "基于TDIM的胃癌术后患者及照顾者营养管理平台",
+  "description": "基于二元疾病管理理论（TDIM）的胃癌术后居家营养管理系统，支持患者与照顾者二元评价、二元管理行为协同与临床研究数据收集。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
